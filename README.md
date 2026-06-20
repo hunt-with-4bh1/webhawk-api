@@ -48,10 +48,18 @@
 
 ---
 
-# 📸 Screenshots
+<h1 align="center">📸 Screenshots</h1>
 
 <p align="center">
-<img src="screenshots/webhawk-dashboard.png" width="900">
+<img src="screenshots/Start_Webhwak.png" width="900">
+</p>
+
+<p align="center">
+<img src="screenshots/form_&_Screenshorts.png" width="900">
+</p>
+
+<p align="center">
+<img src="screenshots/Report.png" width="900">
 </p>
 
 ---
